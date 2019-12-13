@@ -9,7 +9,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "localhost", 
-    "FindLost.herokuapp.com"
+    "foundlost.herokuapp.com",
+    '127.0.0.1'
 ]
 
 INSTALLED_APPS = [
