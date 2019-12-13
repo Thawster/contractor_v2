@@ -1,0 +1,1 @@
+https://github.com/Thawkster/contractor_v2/proposal.md
